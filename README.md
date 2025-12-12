@@ -71,6 +71,6 @@ A dedicated service class maintains the complete type matchup chart, returning a
 
 ## Authors
 Ahmed Hassan - Computer Science Student  
-Vikram Singh - Computer Science Techer
+Vikram Singh - Computer Science Teacher
 
 ---
